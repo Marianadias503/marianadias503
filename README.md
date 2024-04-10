@@ -3,8 +3,8 @@
 
 
 
-- 🔭 Cursando Sistema de informação | Puc Minas
-- 🌱 Realizando projetos pessoais com foco em Front-end
+- 🔭 Cursando Análise e desenvolvimento de sistemas | Puc Minas
+- 🌱 Realizando projetos pessoais 
 
  <div style="display: inline_block"><br>
    
