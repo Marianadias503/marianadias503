@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Cursando Análise e desenvolvimento de sistemas | Puc Minas
+- 🔭 Cursando Análise e desenvolvimento de sistemas | Puc Virtual
 - 🌱 Realizando projetos pessoais 
 
  <div style="display: inline_block"><br>
