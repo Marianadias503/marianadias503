@@ -1,6 +1,6 @@
 Olá!!! Eu sou a Mariana Dias 👋
 
-🔭 Cursando Análise e Desenvolvimento de Sistemas 4-periodo | PUC Virtual
+🔭 Cursando Análise e Desenvolvimento de Sistemas 5-periodo | PUC Virtual
 
 🌱 Realizando projetos pessoais
 
